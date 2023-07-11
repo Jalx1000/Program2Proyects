@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/05 20:01:15.000.948,=C:\Users\jalej\Documents\RAD\Unit1.cpp</Transaction>
+    <Transaction>2023/07/05 20:01:15.000.789,=C:\Users\jalej\Documents\RAD\Project1PCH1.h</Transaction>
+    <Transaction>2023/07/05 22:23:47.000.065,C:\Users\jalej\Documents\RAD\z-2despues de reunion\Program 2 U3 proyectos\1\UArchivosTexto.h=C:\Users\jalej\Documents\RAD\Unit1.h</Transaction>
+    <Transaction>2023/07/05 22:23:47.000.065,C:\Users\jalej\Documents\RAD\z-2despues de reunion\Program 2 U3 proyectos\1\UArchivosTexto.cpp=C:\Users\jalej\Documents\RAD\Unit1.cpp</Transaction>
+    <Transaction>2023/07/05 22:23:47.000.065,C:\Users\jalej\Documents\RAD\z-2despues de reunion\Program 2 U3 proyectos\1\UArchivosTexto.dfm=C:\Users\jalej\Documents\RAD\Unit1.dfm</Transaction>
+    <Transaction>2023/07/05 22:24:08.000.487,C:\Users\jalej\Documents\RAD\z-2despues de reunion\Program 2 U3 proyectos\1\ProyectoArchivoTexto.cbproj=C:\Users\jalej\Documents\RAD\Project1.cbproj</Transaction>
+    <Transaction>2023/07/05 22:24:08.000.465,C:\Users\jalej\Documents\RAD\z-2despues de reunion\Program 2 U3 proyectos\1\ProyectoArchivoTextoPCH1.h=C:\Users\jalej\Documents\RAD\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
